@@ -1,4 +1,4 @@
 VT-Docs
 =======
 
-Document management system for an enterprise.
+A document management system for an enterprise.
